@@ -1,14 +1,22 @@
 <div align="center">
 
-# ZENZERFLOW
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0d9488,100:14b8a6&height=190&section=header&text=ZENZERFLOW&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Build%20%E2%80%A2%20Automate%20%E2%80%A2%20Scale&descAlignY=62&descSize=20" width="100%"/>
 
-### Where Your Business Finds Its Flow.
+### Software Engineering · AI · Automation · Digital Solutions
 
-**Software Engineering • AI • Automation • Digital Solutions**
+<br>
 
-[Website](https://zenzerflow.com) ·
-[GitHub](https://github.com/zenzerflow) ·
-[LinkedIn](https://www.linkedin.com/company/zenzerflow/)
+<a href="https://zenzerflow.com">
+<img src="https://img.shields.io/badge/Website-zenzerflow.com-0d9488?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="https://github.com/zenzerflow">
+<img src="https://img.shields.io/badge/GitHub-Zenzerflow-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/company/zenzerflow/">
+<img src="https://img.shields.io/badge/LinkedIn-Zenzerflow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
@@ -17,380 +25,480 @@
 <div align="center">
 
 ```text
-╭──────────────────────────────────────────────────────────────────────────────╮
-│                                                                              │
-│                         Z E N Z E R F L O W                                  │
-│                                                                              │
-│             Building Technology That Moves Businesses Forward               │
-│                                                                              │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│  TYPE        Technology & Software Solutions                                 │
-│  FOCUS       Software • AI • Automation • Digital Transformation             │
-│  BUILD       Web Apps • Mobile Apps • ERP • CRM • AI Systems                │
-│  APPROACH    Understand → Design → Build → Integrate → Scale                │
-│                                                                              │
-╰──────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                       │
+│  ███████╗███████╗███╗   ██╗███████╗███████╗██████╗ ███████╗██╗      ██████╗ ██╗    ██╗│
+│  ╚══███╔╝██╔════╝████╗  ██║╚══███╔╝██╔════╝██╔══██╗██╔════╝██║     ██╔═══██╗██║    ██║│
+│    ███╔╝ █████╗  ██╔██╗ ██║  ███╔╝ █████╗  ██████╔╝█████╗  ██║     ██║   ██║██║ █╗ ██║│
+│   ███╔╝  ██╔══╝  ██║╚██╗██║ ███╔╝  ██╔══╝  ██╔══██╗██╔══╝  ██║     ██║   ██║██║███╗██║│
+│  ███████╗███████╗██║ ╚████║███████╗███████╗██║  ██║██║     ███████╗╚██████╔╝╚███╔███╔╝│
+│  ╚══════╝╚══════╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝     ╚══════╝ ╚═════╝  ╚══╝╚══╝ │
+│                                                                                       │
+├───────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                       │
+│  > whoami                                                                             │
+│                                                                                       │
+│  Technology company building software, AI systems & business automation.              │
+│                                                                                       │
+│  > mission                                                                            │
+│                                                                                       │
+│  Turn complex business problems into simple, scalable technology.                     │
+│                                                                                       │
+│  > philosophy                                                                         │
+│                                                                                       │
+│  Understand → Design → Build → Test → Deploy → Improve                                │
+│                                                                                       │
+╰───────────────────────────────────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
-## About Zenzerflow
-
-Zenzerflow is a technology company focused on building modern software
-solutions that help businesses simplify operations, improve productivity,
-and accelerate growth.
-
-We work across software engineering, business automation, AI-powered
-solutions, web and mobile applications, ERP/CRM systems, and digital
-transformation.
-
-> **Understand the problem. Engineer the solution. Build for scale.**
-
-We don't build technology simply to add another tool to a business.
-We build systems that solve real operational problems.
-
 ---
 
-## What We Build
+# ⚡ What We Do
 
-```text
-┌───────────────────────┬───────────────────────┬─────────────────────┐
-│  SOFTWARE SYSTEMS     │  AI & AUTOMATION      │  DIGITAL PRODUCTS   │
-├───────────────────────┼───────────────────────┼─────────────────────┤
-│  Web Applications     │  AI Solutions         │  SaaS Platforms     │
-│  Mobile Applications  │  AI Agents            │  ERP Systems        │
-│  ERP & CRM            │  Workflow Automation  │  CRM Platforms      │
-│  Business Software    │  Intelligent Systems  │  Internal Tools     │
-│  API Development      │  Process Automation   │  E-Commerce         │
-└───────────────────────┴───────────────────────┴─────────────────────┘
-```
+<table>
+<tr>
 
-### Software Development
+<td width="33%" align="center">
 
-- Custom Web Applications
-- Business Management Systems
-- ERP & CRM Platforms
-- SaaS Products
-- E-Commerce Platforms
-- REST APIs
-- Backend Systems
-- Internal Business Tools
+## 🧩
+
+### Software
+
+**Build systems that run businesses.**
+
+Web Applications  
+Mobile Applications  
+ERP & CRM  
+SaaS Platforms  
+APIs & Backend  
+Business Software
+
+</td>
+
+<td width="33%" align="center">
+
+## 🤖
 
 ### AI & Automation
 
-- AI-powered applications
-- AI agents
-- Business workflow automation
-- Intelligent document processing
-- AI-assisted business systems
-- LLM and API integrations
-- Autonomous testing systems
-- Process automation
+**Make systems think, act & improve.**
 
-### Digital Solutions
+AI Applications  
+AI Agents  
+LLM Integrations  
+RAG Systems  
+Workflow Automation  
+Autonomous Systems
 
-- Corporate Websites
-- E-Commerce Websites
-- Mobile Applications
-- SEO-ready web platforms
-- Digital Marketing Technology
-- Business Process Digitization
+</td>
 
----
+<td width="33%" align="center">
 
-# Engineering Stack
+## 🚀
 
-### Frontend
+### Digital
 
-`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS`
-`Material UI` `Vite` `Three.js`
+**Turn ideas into digital products.**
 
-### Backend
+Corporate Websites  
+E-Commerce  
+Digital Platforms  
+Business Solutions  
+Process Digitization  
+Digital Experiences
 
-`Java` `Spring Boot` `Node.js` `REST APIs`
+</td>
 
-### Databases
-
-`PostgreSQL` `MySQL` `MongoDB` `Supabase`
-
-### AI & Intelligent Systems
-
-`LLM APIs` `AI Agents` `RAG` `Vector Search`
-`Embeddings` `AI Automation`
-
-### DevOps & Infrastructure
-
-`Docker` `GitHub Actions` `Vercel` `Render`
-`Cloud Infrastructure` `CI/CD`
-
-### Engineering Tools
-
-`Git` `GitHub` `IntelliJ IDEA` `VS Code`
-`Postman` `npm` `Maven`
+</tr>
+</table>
 
 ---
 
-# Our Engineering Standard
-
-At Zenzerflow, engineering quality is part of the product.
-
-```text
-┌─────────────────────────────────────────────────────────────────┐
-│                       OUR STANDARD                              │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  01  Understand before building                                │
-│  02  Design systems before implementation                       │
-│  03  Keep architecture modular and maintainable                 │
-│  04  Build APIs with security and scalability in mind           │
-│  05  Validate functionality before delivery                    │
-│  06  Document important technical decisions                     │
-│  07  Keep secrets and credentials out of source control         │
-│  08  Prefer automation over repetitive manual processes         │
-│  09  Build responsive and accessible user experiences           │
-│  10  Optimize for long-term maintainability                     │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-## Development Workflow
-
-```text
-                         ┌───────────────┐
-                         │    PROBLEM    │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │   DISCOVERY   │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │   ARCHITECT   │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │     BUILD     │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │     TEST      │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │   INTEGRATE   │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │    DEPLOY     │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │    IMPROVE    │
-                         └───────────────┘
-```
-
----
-
-# Security First
-
-Security is considered throughout the development lifecycle.
-
-We aim to use:
-
-- Environment-based configuration
-- Secure secret management
-- Authentication and authorization
-- JWT-based security where appropriate
-- Role-based access control
-- Input validation
-- API security
-- Database access controls
-- Secure dependency management
-- Protection against accidental credential exposure
-
-**Credentials, API keys, tokens and private configuration should never be
-committed to repositories.**
-
----
-
-# AI Engineering Philosophy
-
-We believe AI should solve a problem, not simply exist as a feature.
-
-```text
-        DATA
-          │
-          ↓
-    ┌─────────────┐
-    │ UNDERSTAND  │
-    └──────┬──────┘
-           ↓
-    ┌─────────────┐
-    │   REASON    │
-    └──────┬──────┘
-           ↓
-    ┌─────────────┐
-    │    ACT      │
-    └──────┬──────┘
-           ↓
-    ┌─────────────┐
-    │   VERIFY    │
-    └──────┬──────┘
-           ↓
-    ┌─────────────┐
-    │   IMPROVE   │
-    └─────────────┘
-```
-
-We explore practical applications of:
-
-- Large Language Models
-- Retrieval-Augmented Generation
-- Vector databases
-- AI agents
-- Tool-using agents
-- Workflow orchestration
-- Document intelligence
-- Autonomous testing
-- AI-assisted developer workflows
-
----
-
-# Products & Systems
-
-### BillFlow
-
-An offline-first billing and POS solution designed for businesses that need
-invoicing, inventory, customer accounts, barcode scanning, GST invoices and
-multiple payment methods.
-
-### SmartInventory
-
-An enterprise-oriented ERP system built around inventory, weighment, quality
-control, production, stock management and business operations.
-
-### AI Testing Platform
-
-An AI-powered autonomous testing platform designed to observe applications,
-understand application behaviour, generate test cases and execute automated
-tests.
-
-### Business Automation Systems
-
-Custom platforms designed to automate client intake, proposals, agreements,
-payments, CRM workflows and internal business operations.
-
----
-
-# Repository Standards
-
-Every significant Zenzerflow repository should clearly communicate what it
-does and how another engineer can work with it.
-
-### README
-
-Where applicable, repositories should explain:
-
-- What the project does
-- Why it exists
-- Key features
-- Technology stack
-- Architecture
-- Setup instructions
-- Environment variables
-- API documentation
-- Testing instructions
-- Deployment information
-- Contribution guidelines
-
-### Code Quality
-
-We aim for:
-
-- Clear naming
-- Small and focused modules
-- Separation of concerns
-- Reusable components
-- Consistent formatting
-- Meaningful commits
-- Useful documentation
-- Automated validation where practical
-
-### Git Workflow
-
-Typical branch structure:
-
-```text
-main
- │
- ├── feature/*
- ├── fix/*
- ├── refactor/*
- └── docs/*
-```
-
-Changes should be reviewed and validated before being merged into the
-main branch.
-
----
-
-# GitHub Activity
+# 🧠 Our Engineering DNA
 
 <div align="center">
 
-<a href="https://github.com/zenzerflow">
-  <img src="https://github-readme-stats.vercel.app/api?username=zenzerflow&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Zenzerflow GitHub Stats" />
-</a>
+| 🔍 Understand | 🏗️ Architect | ⚙️ Engineer | 🧪 Validate | 🚀 Deliver | 📈 Improve |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Problem first | Scalable design | Clean code | Test everything | Ship reliably | Never stop |
 
-<a href="https://github.com/zenzerflow">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenzerflow&layout=compact&hide_border=true&theme=github_dark" alt="Zenzerflow Top Languages" />
-</a>
+</div>
+
+We believe good engineering is more than making something work.
+
+It should be **secure, maintainable, scalable, observable and understandable.**
+
+```text
+                         REAL PROBLEM
+                              │
+                              ▼
+                       ┌─────────────┐
+                       │  DISCOVERY  │
+                       └──────┬──────┘
+                              │
+                              ▼
+                       ┌─────────────┐
+                       │ ARCHITECTURE│
+                       └──────┬──────┘
+                              │
+                              ▼
+                       ┌─────────────┐
+                       │    DESIGN   │
+                       └──────┬──────┘
+                              │
+                              ▼
+                       ┌─────────────┐
+                       │    BUILD    │
+                       └──────┬──────┘
+                              │
+                              ▼
+                       ┌─────────────┐
+                       │ TEST & QA   │
+                       └──────┬──────┘
+                              │
+                              ▼
+                       ┌─────────────┐
+                       │   DEPLOY    │
+                       └──────┬──────┘
+                              │
+                              ▼
+                       ┌─────────────┐
+                       │   IMPROVE   │
+                       └─────────────┘
+```
+
+---
+
+# 🛠️ Technology Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,threejs" />
+
+<br><br>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
+
+<br><br>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+
+<br><br>
+
+### Cloud · DevOps · Tools
+
+<img src="https://skillicons.dev/icons?i=docker,github,git,vercel,postman,maven,idea,vscode" />
 
 </div>
 
 ---
 
-# What We Believe
+# 🤖 AI Engineering
+
+We don't add AI simply because it is trending.
+
+We use AI where it can **remove complexity, automate decisions, improve workflows
+or unlock capabilities that traditional software cannot easily provide.**
 
 ```text
-┌───────────────────────────────────────────────────────────┐
-│                                                           │
-│  Good software should be                                  │
-│                                                           │
-│       SIMPLE        →  Easy to understand                 │
-│       SCALABLE      →  Ready to grow                      │
-│       SECURE        →  Designed responsibly               │
-│       MAINTAINABLE  →  Easy to improve                    │
-│       USEFUL        →  Solves a real problem              │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
+       DATA
+        │
+        ▼
+   ┌───────────┐
+   │ UNDERSTAND│
+   └─────┬─────┘
+         ▼
+   ┌───────────┐
+   │   REASON  │
+   └─────┬─────┘
+         ▼
+   ┌───────────┐
+   │    ACT    │
+   └─────┬─────┘
+         ▼
+   ┌───────────┐
+   │  VERIFY   │
+   └─────┬─────┘
+         ▼
+   ┌───────────┐
+   │  IMPROVE  │
+   └───────────┘
 ```
 
-Technology is valuable when it creates measurable improvements in the
-way people and businesses work.
+### Focus Areas
+
+`LLMs` · `AI Agents` · `RAG` · `Embeddings` · `Vector Search` ·
+`Document Intelligence` · `AI Automation` · `Autonomous Testing`
 
 ---
 
-# Connect With Zenzerflow
+# 🚀 What We're Building
 
-**Website**  
-https://zenzerflow.com
+<table>
+<tr>
 
-**GitHub**  
-https://github.com/zenzerflow
+<td width="50%">
 
-**LinkedIn**  
-https://www.linkedin.com/company/zenzerflow/
+### 💳 BillFlow
+
+**Billing & POS**
+
+An offline-first billing and POS platform for modern businesses.
+
+- 🧾 Invoicing
+- 🏷️ GST Tax Invoices
+- 📦 Inventory
+- 🔎 Barcode Scanning
+- 👥 Customer Accounts
+- 💵 Cash / Card / UPI
+- 🔀 Split Payments
+
+</td>
+
+<td width="50%">
+
+### 📦 SmartInventory
+
+**Enterprise ERP**
+
+An ERP platform designed for inventory-driven businesses.
+
+- ⚖️ Weighment
+- 📊 Stock Ledger
+- 🧪 Quality Control
+- 🏭 Production
+- 📈 Yield Management
+- 🏢 Warehouses & Godowns
+- 🤝 Business Partners
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🧪 AI Testing Platform
+
+**Autonomous Test Automation**
+
+An AI-powered platform designed to understand applications and automate testing.
+
+```text
+Observe
+   ↓
+Learn
+   ↓
+Generate
+   ↓
+Execute
+   ↓
+Verify
+   ↓
+Report
+```
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Business Automation
+
+**Connect the pieces.**
+
+Custom systems for automating:
+
+- Client Intake
+- CRM
+- Proposals
+- Agreements
+- Payments
+- Notifications
+- Internal Workflows
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📐 Repository Standard
+
+Every serious Zenzerflow project should be understandable to the next engineer.
+
+```text
+project/
+│
+├── README.md
+├── docs/
+│
+├── src/
+│   ├── main/
+│   └── test/
+│
+├── .env.example
+├── .gitignore
+├── LICENSE
+└── ...
+```
+
+### Every project should aim for
+
+```text
+✓ Clear documentation
+✓ Modular architecture
+✓ Secure configuration
+✓ Automated testing
+✓ Meaningful Git history
+✓ Reproducible setup
+✓ Useful logging
+✓ Deployment readiness
+✓ Maintainable code
+```
+
+> **If another engineer cannot understand the project, the project isn't finished.**
+
+---
+
+# 🔐 Security Standard
+
+<div align="center">
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                     SECURITY CHECK                         │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  ✓ No secrets in Git                                      │
+│  ✓ Environment-based configuration                         │
+│  ✓ Authentication & Authorization                          │
+│  ✓ Input validation                                        │
+│  ✓ API protection                                          │
+│  ✓ Role-based access control                               │
+│  ✓ Secure database access                                  │
+│  ✓ Dependency awareness                                    │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
+
+**API keys, passwords, tokens and private credentials never belong in Git.**
+
+</div>
+
+---
+
+# 🌐 How We Build
+
+```text
+       ┌──────────────────┐
+       │     BUSINESS     │
+       │      NEED        │
+       └────────┬─────────┘
+                │
+                ▼
+       ┌──────────────────┐
+       │    DISCOVERY     │
+       └────────┬─────────┘
+                │
+                ▼
+       ┌──────────────────┐
+       │    SOLUTION      │
+       │     DESIGN       │
+       └────────┬─────────┘
+                │
+                ▼
+       ┌──────────────────┐
+       │   ENGINEERING    │
+       └────────┬─────────┘
+                │
+                ▼
+       ┌──────────────────┐
+       │      TEST        │
+       └────────┬─────────┘
+                │
+                ▼
+       ┌──────────────────┐
+       │     DEPLOY       │
+       └────────┬─────────┘
+                │
+                ▼
+       ┌──────────────────┐
+       │      SCALE       │
+       └──────────────────┘
+```
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zenzerflow&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenzerflow&layout=compact&hide_border=true&theme=transparent" height="170"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zenzerflow&hide_border=true&theme=transparent" width="70%"/>
+
+</div>
+
+---
+
+# 🧭 The Zenzerflow Standard
+
+<div align="center">
+
+| | Principle | Meaning |
+|:---:|:---|:---|
+| 🧩 | **SIMPLE** | Easy to understand |
+| 📈 | **SCALABLE** | Ready to grow |
+| 🔐 | **SECURE** | Designed responsibly |
+| 🛠️ | **MAINTAINABLE** | Easy to improve |
+| 🎯 | **USEFUL** | Solves a real problem |
+
+</div>
 
 ---
 
 <div align="center">
 
-### Build. Automate. Scale.
+# Build. Automate. Scale.
 
-**ZENZERFLOW**
+### Where Your Business Finds Its Flow.
 
-*Where Your Business Finds Its Flow.*
+<br>
+
+<a href="https://zenzerflow.com">
+<img src="https://img.shields.io/badge/EXPLORE_ZENZERFLOW-0d9488?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="https://github.com/zenzerflow">
+<img src="https://img.shields.io/badge/GITHUB-ZENZERFLOW-181717?style=flat-square&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/company/zenzerflow/">
+<img src="https://img.shields.io/badge/LINKEDIN-ZENZERFLOW-0A66C2?style=flat-square&logo=linkedin">
+</a>
+
+<a href="https://zenzerflow.com">
+<img src="https://img.shields.io/badge/WEB-ZENZERFLOW-0d9488?style=flat-square&logo=google-chrome">
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,50:0d9488,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>
