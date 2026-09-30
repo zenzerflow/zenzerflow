@@ -379,7 +379,7 @@ project/
 │                     SECURITY CHECK                         │
 ├────────────────────────────────────────────────────────────┤
 │                                                            │
-│  ✓ No secrets in Git                                      │
+│  ✓ No secrets in Git                                       │
 │  ✓ Environment-based configuration                         │
 │  ✓ Authentication & Authorization                          │
 │  ✓ Input validation                                        │
